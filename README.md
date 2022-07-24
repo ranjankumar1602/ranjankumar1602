@@ -1,4 +1,4 @@
-<img align="top" alt="Banner" width="1000" height="200" src="images/images.png">
+<img style="width: 100%;" align="top" alt="Banner" height="200" src="images/images.png">
 <h1 align="center">Hi 👋, I'm Ranjan Kumar</h1>
 <h3 align="center">A passionate Developer & Programmer from India</h3>
 <img align="right" alt="Coding" width="350" src="images/image2.gif">
